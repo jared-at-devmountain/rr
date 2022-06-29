@@ -1,0 +1,15 @@
+h1 {
+    background-color: aqua;
+    color: yellow;
+}
+
+h2  {
+    background-color: red;
+    color: purple;
+}
+
+li {
+    font-size: xx-large;
+    font-weight: bolder;
+    color: chartreuse;
+}
