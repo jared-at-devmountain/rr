@@ -13,3 +13,22 @@ li {
     font-weight: bolder;
     color: chartreuse;
 }
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#vid {
+    display: none;
+}
+
+#im {
+    cursor: pointer;
+}
+
+#im:hover {
+    border: 10px yellow solid;
+}
